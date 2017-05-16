@@ -1,0 +1,28 @@
+{
+  "name": "07-nodejs-npm-express",
+  "version": "1.0.0",
+  "description": "lab 7",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanieDover/07-nodejs-npm-express.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "Stephanie and Matthew Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephanieDover/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/StephanieDover/07-nodejs-npm-express#readme"
+}
