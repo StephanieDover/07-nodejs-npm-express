@@ -20,5 +20,5 @@ app.post('/articles', bodyParser, function(request, response) {
 
 app.listen(PORT, function() {
 
-  console.log('Lab 7 is on port 3000');
+  console.log(`Lab 7 is on port ${PORT}`);
 });
